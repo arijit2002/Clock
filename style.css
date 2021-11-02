@@ -1,0 +1,30 @@
+body{
+    background-image: url(pexels-photo-4082638.jpeg);
+    background-size: cover;
+    padding-top: 5px;
+    margin: 0px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+    padding-left: 50;
+    width: 300px;
+    height:300px;
+    text-align: center;
+    margin-top: 200px;
+    margin-left: 800px;
+}
+.clock{
+    background-color: antiquewhite;
+    border-style: solid;
+    border-radius: 5px;
+    padding: 2px;
+    margin:5px;
+    font-size:x-large;
+}
+#india{
+    color: azure;
+    font-size:xx-large;
+    color: wheat;
+}
